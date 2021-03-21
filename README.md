@@ -9,12 +9,12 @@
 ### HW 1 : What do you think about cloud computing?
 >* HW 1
 ### HW 2 : Build a Website using Amazon EC2 with LAMP
-* HW 2
+>* HW 2
 ### HW 3 : Build a Website using Amazon S3(Versioning)and AWS Amplify
-* HW 3
+>* HW 3
 ### HW 4 : Build a Telegram Chatbot using Amazon API Gateway and AWS Lambda
 * HW 4
 ### HW 5 : Create a Database using Amazon RDS or Amazon DynamoDB
-* HW 5
+>* HW 5
 ### HW 6 : Create a Docker Container or Build your own Project Services
-* HW 6
+>* HW 6
