@@ -28,8 +28,8 @@
 ### Project Description :
 #### 解決痛點 :
 >* 利用人力蒐集市場分析資料效率差 
->＊資訊量過大，查找資料耗時耗力
->＊如何即時的找到有效之資料
+>*　資訊量過大，查找資料耗時耗力
+>*　如何即時的找到有效之資料
 #### 技術挑戰 :
 >* 蒐集新聞 : Google News API
 >* 解析摘要 : Google Translater API、NLTK、JIEBA
