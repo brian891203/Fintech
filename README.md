@@ -11,7 +11,7 @@
 ### HW 2 : Build a Website using Amazon EC2 with LAMP
 >* [HW 2](HW2/hw2.md)
 ### HW 3 : Build a Website using Amazon S3(Versioning)and AWS Amplify
->* HW 3
+>* [HW 3](https://youtu.be/ul2pSPfx13g)
 ### HW 4 : Build a Telegram Chatbot using Amazon API Gateway and AWS Lambda
 >* HW 4
 ### HW 5 : Create a Database using Amazon RDS or Amazon DynamoDB
