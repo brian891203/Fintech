@@ -17,7 +17,7 @@
 ### HW 5 : Create a Database using Amazon RDS or Amazon DynamoDB
 >* [HW 5](https://youtu.be/PlnvsDTLvRE)
 ### HW 6 : Create a Docker Container or Build your own Project Services
->* HW 6
+>* [HW 6](https://youtu.be/0Nl0pmzkO64)
 ---
 ## 🌵Project
 ### 南山人壽題目一 : 文本分析 市場焦點機器人
